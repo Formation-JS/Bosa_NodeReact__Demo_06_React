@@ -1,8 +1,14 @@
-# React + Vite
+# React (ViteJS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Demo du fonctionnement de React : 
+- Création de composant
+- Rendu conditionnel
+- Collection 
+- Manipulation du State
+- Requete AJAX
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Details des packages : 
+- prop-types : Typage des "props" des composant
+- clsx : Utilitaire pour créer les classnames
+- axios : Utilitaire pour les requetes Ajax
+- swr : Hook pour la récuperation de donnée 
