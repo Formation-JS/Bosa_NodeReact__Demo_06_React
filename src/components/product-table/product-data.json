@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "T-shirt en coton",
+      "description": "T-shirt en coton doux et confortable",
+      "price": "$19.99",
+      "onSale": false
+    },
+    {
+      "id": 2,
+      "name": "Pantalon de jogging",
+      "description": "Pantalon de jogging en coton avec poches latérales",
+      "price": "$29.99",
+      "onSale": true
+    },
+    {
+      "id": 3,
+      "name": "Chaussures de course",
+      "description": null,
+      "price": "$59.99",
+      "onSale": true
+    },
+    {
+      "id": 5,
+      "name": "Sac à dos",
+      "description": "Sac à dos spacieux avec compartiment pour ordinateur portable",
+      "price": "$39.99",
+      "onSale": false
+    }
+  ]
